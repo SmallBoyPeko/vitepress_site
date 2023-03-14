@@ -4,7 +4,7 @@ import { buildBlogRSS } from "./theme/rss";
 async function config() {
   return {
     lang: "zh-CN",
-    base: '.',
+    base: '/vitepress_site/',
     title: "JiaHao的博客",
     description: "个人网站",
     head: [
