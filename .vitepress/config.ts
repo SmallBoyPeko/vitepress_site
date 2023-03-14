@@ -5,8 +5,8 @@ async function config() {
   return {
     lang: "zh-CN",
     base: '.',
-    title: "JiaHao",
-    description: "Home of JiaHao",
+    title: "JiaHao的博客",
+    description: "个人网站",
     head: [
       [
         "link",
