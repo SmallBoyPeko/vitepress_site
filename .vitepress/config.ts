@@ -4,6 +4,7 @@ import { buildBlogRSS } from "./theme/rss";
 async function config() {
   return {
     lang: "en-US",
+    base: 'vitepress_blog',
     title: "JiaHao",
     description: "Home of JiaHao",
     head: [
