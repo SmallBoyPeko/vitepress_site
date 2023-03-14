@@ -4,7 +4,7 @@ import { buildBlogRSS } from "./theme/rss";
 async function config() {
   return {
     lang: "en-US",
-    base: './',
+    base: '.',
     title: "JiaHao",
     description: "Home of JiaHao",
     head: [
